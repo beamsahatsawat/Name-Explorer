@@ -1,0 +1,50 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# PHP / Composer
+/vendor/
+/composer.lock
+/.env
+.env.*
+.env.local
+
+# Node
+node_modules/
+
+# Logs and cache
+logs/
+*.log
+cache/
+tmp/
+*.cache
+
+# Build / distribution
+dist/
+build/
+
+# Database dumps (kept in repo — SQL files should be tracked)
+# (previously: data/*.sql)
+
+# Images/uploads (adjust if your repo stores uploads in a tracked folder)
+# public/uploads/
+
+# Windows image file cache
+Thumbs.db
+
+# Misc
+*.zip
+*.tar.gz
+*.rar
+
+# End of file
